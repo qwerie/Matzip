@@ -1,9 +1,0 @@
-.restaurant-info {
-    flex-direction: column;
-}
-.restaurant-info *{
-    font-size: 2vw !important;
-}
-td{
-    word-break:break-all;
-}
